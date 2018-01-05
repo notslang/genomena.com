@@ -149,7 +149,7 @@ All these goals rest on the bedrock of reference genomes. Let's get them right.
 
 [^2] Importantly, many snippets from your genome differ from even their best-matching parts of the puzzlebox picture (otherwise, why bother sequencing?). But the reference template still helps piece them together faster than we otherwise could. And by piling _many_ snippets over each site, we can tune out errors from cooking finicky chemicals under tiny image sensors -- a bit like how astronomers, at the other end of the spatial scale, distinguish lasting light sources from noise by overlaying many pictures of the same part of the sky.
 
-[^3] While researchers colloquially use the _Hg_ prefix, this technically denotes the version stored at the University of California Santa Cruz's popular [genome data portal](http://genome.ucsc.edu/); the current reference's proper name is _GRCh##.p__, where ## (currently 37) is a _major assembly release_ number higher than the # in Hg#, and _ is a _patch release_ number.
+[^3] While researchers colloquially use the _Hg_ prefix, this technically denotes the version stored at the University of California Santa Cruz's popular [genome data portal](http://genome.ucsc.edu/); the current reference's proper name is *GRCh##.p__, where ## (currently 37) is a _major assembly release* number higher than the # in Hg#, and *is a _patch release* number.
 
 [^4] That point was moot in 2003, when we had to use the hardwon sequence that became the current reference. But since then, we're bootstrapping our way to good sequences of _many_ human genomes from around the world -- a pool that we should tap to better align newly sequenced genomes, as some folks have already shown.
 

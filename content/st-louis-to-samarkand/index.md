@@ -3,7 +3,7 @@ publish-date: '1998'
 tags: humania-research-by-people-about-people-for-people
 ---
 
-# St. Louis to Samarkand — A Tale of Two Chromosomes
+# St. Louis to Samarkand -- A Tale of Two Chromosomes
 
 ![](/wp-content/uploads/2009/12/samarkandcycle-691x1024.jpg "SamarkandCycle")
 
@@ -38,7 +38,6 @@ Despite such restrictions, the population-level frequency of Y-chromosome haplot
 --------------------------------------------------------------------------------
 
 UPDATE: A few years after Eurasia '98, I was living in Chicago, and got a call out of the blue. A hoarse, unfamiliar voice spoke to me in insistent Russian, and repeated a name until it sank in. It was Sharif. Aided by an English-speaking brother who soon joined the call, he wanted to let me know that his wife had given him my number, and that, as he was once more in the United States, he hoped to repay my visit to his Samarkand home by coming to meet me. A few months later, he followed through. Our meeting proved surprisingly emotional; though mutual language barriers made communication halting, we shared more about our lives, and pored over sheafs of family photos, contemplating the faces of new distant cousins. Sharif had also brought me an unexpected gift: a brocade robe, richly embroidered in traditional, gold-threaded Tajik motifs on a velvety midnight blue. Trying it on, I nearly swam in the folds of cloth, looking a bit like Mickey Mouse as the Sorcerer's Apprentice (apparently, Sharif's wife hadn't told him how tall I was). And, most strikingly, I learned that Sharif and his family had just moved to New York City. In doing so, they had joined a new wave in the same longterm tide of transatlantic migration that drew my forebears westward, two generations back. Our own shared forefather, who perhaps plied the Silk Road many centuries before, might have been proud to know.
-
 
 ![Dusk, Samarkand, Uzbekistan](/wp-content/uploads/2009/12/samarkandcycle2-1023x669.jpg "samarkandcycle2")
 

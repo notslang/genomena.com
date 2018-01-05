@@ -16,7 +16,7 @@ Below are some thoughts on reading the paper (which, while [not originally freel
 
 ## Twin studies: Gee, these findings look familiar...
 
-Geneticists have long looked to twins to measure genetic heritability, and the new paper -- which presents no new data, but instead re-analyzes past twin studies -- follows in that tradition. Unsurprising, then, that the main conclusion boils down to the well established starting observation: _even [twins from the same egg](<http://en.wikipedia.org/wiki/Monozygotic_twins#Monozygotic>_.28.22identical.22.29_twins), who are as genetically similar as people can be, don't always get sick the same way._
+Geneticists have long looked to twins to measure genetic heritability, and the new paper -- which presents no new data, but instead re-analyzes past twin studies -- follows in that tradition. Unsurprising, then, that the main conclusion boils down to the well established starting observation: *even [twins from the same egg](https://en.wikipedia.org/wiki/Twin#Monozygotic_.28identical.29_twins), who are as genetically similar as people can be, don't always get sick the same way*.
 
 Where Vogelstein and colleagues help refine that classic question of heritability in twins is in trying to _sort_ particular diseases by estimating how well, on average, one might forecast those diseases from genomes alone.
 

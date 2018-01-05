@@ -26,6 +26,7 @@ Let's start with novel variants that likely did _not_ belong to Lacks.
 ## Novel variants that likely arose only in the HeLa cell lineage
 
 ### Single-copy variants in duplicated haplotypes
+
 The HeLa genome is not easy reading. It's basically a long, gibberish-spiked recipe for making tons of human cells. And if such a postmodern cookbook sounds riveting, you'll be pleased to know that it's written mostly in lawyerly triplicate.
 
 In the decades after Lacks was born (perhaps in one big event, such as a faulty cell division), HeLa gained an extra copy of nearly every chromosome. And, though the new paper missed the next point, HeLa's extensive _[triploidy](http://en.wikipedia.org/wiki/Polyploid)_ can help clarify which of its many distinctive variants arose by new mutation in the cell line, after Lacks was conceived (and perhaps after she died).
@@ -37,6 +38,7 @@ Specifically, if a novel variant appears on just one of the three copies of a gi
 Overall, to figure out which of the half-million or so heterozygous novel variants found in HeLa go into this bin, we'd need to systematically check which other variants they're linked to on particular copies of particular chromosomes. With current lab methods, that's hard -- especially for novel variants, where we can't turn to reference data from human populations -- but feasible **[Update: a new [paper](http://www.nature.com/nature/journal/v500/n7461/full/nature12064.html) from [Jay Shendure](http://www.gs.washington.edu/faculty/shendure.htm)'s group reports doing just that!]**.
 
 ### Heterozygous mitochondrial variants
+
 Mitochondria are our cells' tiny furnaces. Each one houses a short, gene-crammed ring of DNA, attesting direct descent from a bacterium that, eons ago, slipped inside a bigger cell, to found [a line of ancestors](http://en.wikipedia.org/wiki/Eukaryote) that we share mainly with plants, molds, and other animals.
 
 Because all your mitochondria come from the few that your mother's egg carried, they tend to be nearly identical within each cell, and throughout your body. That is, though their genomes do mutate (so can vary a bit from mitochondrion to mitochondrion), any resulting variation tends to wash out when we read a person's DNA _en masse_.
@@ -46,6 +48,7 @@ As such, in a person's mitochondria, we expect to find very few genomic sites --
 The HeLa researchers didn't report how many of the novel mitochondrial variants, if any, appeared heterozygous in the HeLa genome. But if any did, it's a good bet that most or all of them arose long after Lacks was born. And though this bin is likely very small, it's one that can be fairly confidently assessed, in part by picking through raw sequence data more carefully; as such, it might tell us a _bit_ about the point mutation rate in HeLa, relative to other tumor cell lines.
 
 ### Variants that don't turn up in other HeLa lines
+
 This is the first big, obvious bin that will eventually subsume many of HeLa's currently puzzling variants. Many variants that appear in the recently sequenced HeLa line will turn out not to appear in most or all other lines that we might eventually look at. While this can reflect _loss_ of such variants, by deletion of segments of DNA in some HeLa lines, it more often will reflect _gain_ of the variant in question in this particular line.
 
 As such, fleshing out the genetic family tree of other HeLa lines will help clarify which such variants trace specifically to the branch that the new paper focuses solely on. Now, on to the other class of novel variants that interest us: those that likely belonged to Lacks from the start...
@@ -53,11 +56,12 @@ As such, fleshing out the genetic family tree of other HeLa lines will help clar
 ## Novel variants that Henrietta Lacks was likely conceived (and born) with
 
 ### Novel ancestral variants
+
 In evolutionary parlance, an ancestral variant is, specifically, a variant carried by the last common ancestor of _everyone_ in a population, for a given stretch of the genome, _before_ any mutation there gave rise to a new variant that's now found in some but not all individuals.
 
 Most ancestral variants are still common among us, so were discovered long ago. But the haul of novel variants found in a given person may include the odd ancestral one that, til now, had never been hooked by researchers fishing in our gene pool.
 
-Most such variants can be spotted easily, because they're shared with many other mammals. Sometimes, such matches just reflect _[homoplasy](http://en.wikipedia.org/wiki/Convergent_evolution)_ – that is, mutation that happened to yield a variant already found in other organisms, perhaps at sites that tend to mutate a lot (such as Cs before Gs). But the commoner case -- and the simpler guess, given how rarely mutation's lightning strikes a typical site in the genome (and how rarer still it is for the mutation to happen to yield a particular variant seen elsewhere too) -- is that a variant shared with most other mammals is really ancestral.
+Most such variants can be spotted easily, because they're shared with many other mammals. Sometimes, such matches just reflect *[homoplasy](http://en.wikipedia.org/wiki/Convergent_evolution)* – that is, mutation that happened to yield a variant already found in other organisms, perhaps at sites that tend to mutate a lot (such as Cs before Gs). But the commoner case -- and the simpler guess, given how rarely mutation's lightning strikes a typical site in the genome (and how rarer still it is for the mutation to happen to yield a particular variant seen elsewhere too) -- is that a variant shared with most other mammals is really ancestral.
 
 As such, among the novel variants called in HeLa, a few will confidently look ancestral -- and most of these were, very likely, inherited by Lacks from her parents.
 
@@ -72,6 +76,7 @@ The HeLa genome reportedly harbors roughly 50 thousand homozygous novel variants
 But outside such regions, most homozygous variants found in HeLa -- novel or otherwise -- likely belonged to Lacks from the start. And we'll eventually be able to confirm many of these guesses by looking at the next bin, below...
 
 ### Variants that turn up in other people
+
 This is the _other_ big, obvious bin that will eventually subsume many of HeLa's currently puzzling variants (the converse of the variants-that-don't-turn-up-in-other-HeLa-lines bin described above). Of the 550-thousand-odd variants so far seen only in HeLa, many thousands will likely eventually be found in the genomes of living people whom we've yet to sequence. And most of these -- especially if flanked by stretches of sequence that distinctively resemble the sequence flanking them in HeLa -- will indeed be variants that Lacks was born with (rather than variants that arose in parallel by new mutation).
 
 As such, it's just a matter of time before we can trace many of the novel variants in HeLa to particular branches of the bigger human genetic family tree.
@@ -102,7 +107,7 @@ Moreover, the paper's authors soon acknowledged that well studied variants that 
 
 Third, the technical question of what we can learn raises thornier _policy_ questions about data privacy, ownership, publishing, and consent. And here, perhaps, likening HeLa's genome to a remixed or cubist rendition of Lacks's was apt. A person's DNA uniquely quilts together genome segments shared with others (kin, both near and far), peppered with a few brand new variants (by mutation). As such, it's neither fully original, nor fully derivative -- like a work of art, necessarily influenced by broader culture. And, perhaps notably, tough questions about sampling and provenance ([Elgin marbles](http://en.wikipedia.org/wiki/Elgin_Marbles), anyone?) have long raged in the art world, with few clear answers. As such, prepare for a vocal, but likely indefinite societal conversation on that front.
 
-[^1] The paper itself made this clear by showing, from HeLa’s genome, that Lacks was indeed a woman with largely west African and European ancestry. Some of us noted that we could go deeper, using public data to guess which variants were attached to which others in Lacks’s chromosomes, clarifying which parts of the world particular stretches of her genome trace to, and even which particular people are her close cousins in particular parts of the genome.
+[^1] The paper itself made this clear by showing, from HeLa's genome, that Lacks was indeed a woman with largely west African and European ancestry. Some of us noted that we could go deeper, using public data to guess which variants were attached to which others in Lacks's chromosomes, clarifying which parts of the world particular stretches of her genome trace to, and even which particular people are her close cousins in particular parts of the genome.
 
 Moreover, some common variants that HeLa shares with other human genomes let us guess at traits that Lacks may have had, and at various disease risks that she might have faced, had she not died of cervical cancer at thirty-one.
 
@@ -112,9 +117,10 @@ Note here that the HeLa authors might likewise have gone out of their way to tel
 
 [^3] While HeLa's genome long intrigued me and others, several technical, funding, and strategic hurdles thwarted the idea back then. And here it bears note, at risk of sanctimony, that our brainstorming on HeLa was _always_ premised on the blessing and direct participation of the Lacks family; had the project been green-lighted internally, step one would have been reaching out to them. So when I learned that the authors of the HeLa paper hadn't engaged the Lackses, my heart, like others, sank...and when I then read the authors' original FAQ, which protested (too much) that their data said nothing about Lacks herself, my gorge rose, prompting this post.
 
-----------
+--------------------------------------------------------------------------------
 
 ## Update (7 August 2013):
+
 Lacks's descendants will [reportedly](http://www.nature.com/news/deal-done-over-hela-cell-line-1.13511) anchor a new committee to consider, case-by-case, requests to use HeLa genome data in biomedical research. Brokered by the family, Skloot, [Francis Collins](https://en.wikipedia.org/wiki/Francis_Collins), and others, the arrangement won't make the HeLa data fully open (so most useful), keeping it instead in NIH's credential-walled [dbGAP](http://www.ncbi.nlm.nih.gov/gap). Nonetheless, it's a gracious and scientifically substantive gesture by the family, whose preference understandably trumps other factors.
 
 HeLa was, after all, derived surreptitiously from their own foremother (and, if all her descendants agreed, no one else's) without informed consent. That wrong, along with the decades more of scientific ill-treatment of the Lackses that followed, remain the heart of the matter, even if the HeLa saga also highlights
