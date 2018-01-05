@@ -1,5 +1,5 @@
 ---
-publish-date: 'Sunday, March 15th, 2009, 11:53 am'
+publish-date: '2009-04-15T11:53:00'
 tags: Evolution 101
 ---
 

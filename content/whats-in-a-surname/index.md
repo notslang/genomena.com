@@ -1,5 +1,5 @@
 ---
-publish-date: Wednesday, March 11th, 2009, 13:25
+publish-date: '2009-04-11T13:25:00'
 tags: Human population history
 ---
 

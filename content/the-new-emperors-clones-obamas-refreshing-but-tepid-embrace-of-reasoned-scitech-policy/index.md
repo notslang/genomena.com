@@ -1,5 +1,5 @@
 ---
-date-posted: 'Tuesday, March 10th, 2009, 4:23 pm'
+date-posted: '2009-04-10T16:23:00'
 tags: 'Genetics, evolution, and policy'
 ---
 

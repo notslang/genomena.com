@@ -1,5 +1,5 @@
 ---
-publish-date: 'Tuesday, April 21st, 2009, 11:34 am'
+publish-date: '2009-05-21T11:34:00'
 tags: Evolution 101
 caption: Delicious alleles
 ---

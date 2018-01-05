@@ -1,5 +1,5 @@
 ---
-publish-date: Thursday, April 19th, 2012, 8:28 pm
+publish-date: '2012-05-19T20:28:00'
 tags: Genomes and health
 ---
 
