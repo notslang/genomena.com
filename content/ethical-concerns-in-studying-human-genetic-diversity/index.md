@@ -1,6 +1,7 @@
 ---
 publish-date: '1998'
 tags: reproductive-technology-article/human-diversity
+title: Ethics in Genome Diversity Fieldwork
 ---
 
 # Ethics in Genome Diversity Fieldwork

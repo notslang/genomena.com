@@ -1,6 +1,7 @@
 ---
 publish-date: '2013-05-01T10:38:00'
 tags: 'Genetics, evolution, and policy'
+title: 'The Shock of the New: What we can say about HeLa''s novel variants'
 ---
 
 # The Shock of the New: What we _can_ say about HeLa's novel variants

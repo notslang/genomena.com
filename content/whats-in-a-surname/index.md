@@ -1,6 +1,7 @@
 ---
 publish-date: '2009-04-11T13:25:00'
 tags: Human population history
+title: What’s in a Surename
 ---
 
 When I was growing up, my family would occasionally get a piece of junk mail inviting us to send off fifty bucks or so for a handsome book. The brochure always featured a photo of a faux leather tome, stamped with a heraldic seal, and complete with a forked satin ribbon to mark one's place amid the hundreds of gilt-edged pages. The book purported to be a history of '[The Pearson Family](http://www.houseofnames.com/xq/asp.fc/qx/pearson-family-crest.htm)', ostensibly an ancient clan descended from some Norseman named Per.

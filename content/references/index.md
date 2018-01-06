@@ -1,6 +1,7 @@
 ---
 publish-date: '2013-09-26T15:44:00'
 tags: 'Genetics, evolution, and policy'
+title: Three small steps toward genomically sensible healthcare
 ---
 
 # Three small steps toward genomically sensible healthcare

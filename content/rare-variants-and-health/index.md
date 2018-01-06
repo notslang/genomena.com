@@ -1,6 +1,7 @@
 ---
 publish-date: '2012-06-28T22:33:00'
 tags: Genomes and health
+title: 'Rare variants, disease, and population size'
 ---
 
 # Rare variants, disease, and population size

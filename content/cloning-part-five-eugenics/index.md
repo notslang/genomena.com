@@ -1,6 +1,7 @@
 ---
 publish-date: '2009-04-10T15:28:00'
 tags: 'Genetics, evolution, and policy'
+title: 'Cloning, part five: Eugenics'
 ---
 
 # Cloning, part five: Eugenics

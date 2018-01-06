@@ -1,6 +1,7 @@
 ---
 publish-date: '2009-04-10T11:28:00'
 tags: 'Genetics, evolution, and policy'
+title: 'Cloning, Epilogue'
 ---
 
 # Cloning, Epilogue

@@ -1,6 +1,7 @@
 ---
 publish-date: '2012-08-30'
 tags: technology-how-we-look-at-dna
+title: Third-generation sequencing
 ---
 
 # Third-generation sequencing

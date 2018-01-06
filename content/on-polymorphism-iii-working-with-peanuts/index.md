@@ -2,6 +2,7 @@
 publish-date: '2009-05-21T11:34:00'
 tags: Evolution 101
 caption: Delicious alleles
+title: 'On polymorphism III: Working with peanuts'
 ---
 
 # On polymorphism III: Working with peanuts

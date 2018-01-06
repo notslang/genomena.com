@@ -1,6 +1,7 @@
 ---
 publish-date: '2013-04-15T19:34:00'
 tags: 'Genetics, evolution, and policy'
+title: 'Genodicy: sequencing, in pain but in vain, to understand violence'
 ---
 
 # Genodicy: sequencing, in pain but in vain, to understand violence

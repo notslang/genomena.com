@@ -1,6 +1,7 @@
 ---
 publish-date: '1998'
 tags: humania-research-by-people-about-people-for-people
+title: Yurt Life
 ---
 
 # Yurt Life

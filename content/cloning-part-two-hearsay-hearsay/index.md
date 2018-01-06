@@ -1,6 +1,7 @@
 ---
 publish-date: '2009-04-10T15:35:00'
 tags: 'Genetics, evolution, and policy'
+title: 'Cloning, part two: Hearsay, hearsay!'
 ---
 
 # Cloning, part two: Hearsay, hearsay!

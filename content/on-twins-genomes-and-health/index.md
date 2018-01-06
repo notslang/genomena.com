@@ -1,6 +1,7 @@
 ---
 publish-date: '2012-05-04T09:09:00'
 tags: Genomes and health
+title: 'On twins, genomes, and health'
 ---
 
 # On twins, genomes, and health

@@ -1,6 +1,7 @@
 ---
 publish-date: '2009-04-10T15:42:00'
 tags: 'Genetics, evolution, and policy'
+title: 'Cloning, part one: The ballad of bill S.812'
 ---
 
 # Cloning, part one: The ballad of bill S.812

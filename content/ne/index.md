@@ -1,6 +1,7 @@
 ---
 publish-date: '2012-07-24T17:42:00'
 tags: Evolution 101
+title: 'The myriad throng: Human effective population size'
 ---
 
 # The myriad throng: Human effective population size

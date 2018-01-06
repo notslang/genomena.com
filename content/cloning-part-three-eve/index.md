@@ -1,6 +1,7 @@
 ---
 publish-date: '2009-04-10T15:33:00'
 tags: 'Genetics, evolution, and policy'
+title: 'Cloning, part three: Eve'
 ---
 
 # Cloning, part three: Eve

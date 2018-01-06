@@ -1,6 +1,7 @@
 ---
 publish-date: '2009-04-10T15:30:00'
 tags: 'Genetics, evolution, and policy'
+title: 'Cloning, part four: Our genomes, ourselves'
 ---
 
 # Cloning, part four: Our genomes, ourselves

@@ -1,6 +1,9 @@
 ---
 date-posted: '2009-04-10T16:23:00'
 tags: 'Genetics, evolution, and policy'
+title: >-
+  The new emperor’s clones: Obama’s refreshing but tepid embrace of reasoned
+  sci/tech policy
 ---
 
 # The new emperor's clones: Obama's refreshing but tepid embrace of reasoned sci/tech policy
